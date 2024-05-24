@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../RPS game"
+		},
+		{
+			"path": "../Python"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Voting app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tic tack toe"
+	}
+}
